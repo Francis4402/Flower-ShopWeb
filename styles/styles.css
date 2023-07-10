@@ -159,3 +159,58 @@ main{
     line-height: 35px;
     margin-top: 24px;
 }
+
+.testimonial {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+}
+
+.testimonialbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 108px 423px 108px 423px;
+}
+
+.testimonialtext {
+    display: block;
+    text-align: center;
+}
+
+.testimonialtext h2{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.testimonialspan {
+    color: #E55473;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.testimonialp {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 24px 32px;
+}
+
+.signup-btn {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+}
