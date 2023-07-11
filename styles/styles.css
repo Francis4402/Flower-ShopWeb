@@ -187,8 +187,6 @@ main{
 
 .testimonialspan {
     color: #E55473;
-    font-size: 40px;
-    font-weight: 800;
 }
 
 .testimonialp {
@@ -213,4 +211,113 @@ main{
     font-size: 20px;
     font-weight: 700;
     border: none;
+}
+
+.socialpost {
+    margin: 128px 240px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.postimages {
+    display: flex;
+    gap: 24px;
+}
+
+.subscribtab {
+    background: url('../Flower Asset/Rectangle 9.png');
+    margin-top: 128px;
+    background-repeat: no-repeat;
+}
+
+.subpadding {
+    padding: 128px 287px;
+}
+
+.subtitle {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.subp {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 16px 0 48px 0;
+}
+
+.form {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form input {
+    width: 300px;
+    border-radius: 8px;
+    background: #FFF;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-weight: 400;
+    border: none;
+    padding: 16px 22px;
+}
+
+.sub-btn {
+    border-radius: 6px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 14px 28px;
+    border: none;
+}
+
+footer {
+    display: block;
+    background: #111010;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footerpadding {
+    padding: 128px 648px;
+}
+
+.footertitle {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footerspan{
+    color: #FFFFFF;
+}
+
+.footerp {
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.footerend{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
