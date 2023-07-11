@@ -261,23 +261,23 @@ main{
 }
 
 .form input {
-    width: 300px;
+    width: 700px;
     border-radius: 8px;
     background: #FFF;
     color: rgba(39, 39, 39, 0.60);
     font-size: 16px;
     font-weight: 400;
     border: none;
-    padding: 16px 22px;
+    padding: 23px 22px;
 }
 
 .sub-btn {
-    border-radius: 6px;
+    border-radius: 8px;
     background: #E55473;
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
-    padding: 14px 28px;
+    padding: 22px 31px;
     border: none;
 }
 
